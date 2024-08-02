@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-application:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-08-02T20:09:38.101851187+05:30"
+    description: A Helm chart for the frontend and backend applications
+    digest: f155fb07cc468dab88b284fcfd0a0b0891cb35337e81d973ee3ae7478e7552ad
+    name: my-application
+    urls:
+    - my-application-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-02T20:09:38.090445688+05:30"
